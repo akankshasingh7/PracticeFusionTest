@@ -3,8 +3,9 @@
 How to run the application
 
 1. Download the project, open as a Maven project in Eclipse
-2. Run the FindSimilarDoctors file, it has a sample test given in the main method.
+2. Run the FindSimilarDoctors file, it has a sample test given in the main method. 
 3. Run the FindSimilarDoctorsTest file , it has unit test cases for the application.
+4. The final output is a list of Top 5 Similar Doctors
 
 Following are the assumptions made to find similar Doctors , given a Doctor :
 
